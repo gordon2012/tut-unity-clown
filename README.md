@@ -6,4 +6,4 @@
 - [X] Getting Started
 - [X] A Moving Target – Your First Animation
 - [X] Switching Between Animations - State Machines 101
-- [ ] Bull's Eye - Combine Animations and C# Scripts
+- [X] Bull's Eye - Combine Animations and C# Scripts
